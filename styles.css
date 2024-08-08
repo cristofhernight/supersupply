@@ -34,7 +34,7 @@ header p {
 .banner {
     text-align: center;
     margin-bottom: 20px;
-    background: url('../img/backgroundsite.png') no-repeat center center;
+    background: url('backgroundsite.png') no-repeat center center;
     background-size: cover;
 }
 
@@ -51,7 +51,7 @@ header p {
     background-color: rgba(255, 255, 255, 0.8); /* Transparência na info */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
-    background: url('../img/backgroundsite.png') no-repeat center center;
+    background: url('backgroundsite.png') no-repeat center center;
     background-size: cover;
 }
 
@@ -142,17 +142,17 @@ header p {
 
 /* Background gradients for sections */
 .slim-section {
-    background: linear-gradient(135deg, rgba(232, 121, 0, 0.8), rgba(255, 255, 255, 0.8)), url('../img/backgroundsite.png') no-repeat center center;
+    background: linear-gradient(135deg, rgba(232, 121, 0, 0.8), rgba(255, 255, 255, 0.8)), url('backgroundsite.png') no-repeat center center;
     background-size: cover;
 }
 
 .artro-section {
-    background: linear-gradient(135deg, rgba(0, 61, 51, 0.8), rgba(0, 210, 187, 0.8)), url('../img/backgroundsite.png') no-repeat center center;
+    background: linear-gradient(135deg, rgba(0, 61, 51, 0.8), rgba(0, 210, 187, 0.8)), url('backgroundsite.png') no-repeat center center;
     background-size: cover;
 }
 
 .calm-section {
-    background: linear-gradient(135deg, rgba(61, 23, 69, 0.8), rgba(2, 166, 178, 0.8)), url('../img/backgroundsite.png') no-repeat center center;
+    background: linear-gradient(135deg, rgba(61, 23, 69, 0.8), rgba(2, 166, 178, 0.8)), url('backgroundsite.png') no-repeat center center;
     background-size: cover;
 }
 
@@ -196,7 +196,7 @@ header p {
 .who-section {
     text-align: center;
     padding: 50px 20px;
-    background: url('../img/backgroundsite.png') no-repeat center center;
+    background: url('backgroundsite.png') no-repeat center center;
     background-size: cover;
     color: #333;
 }
